@@ -280,3 +280,10 @@ The compiled assets will be in the `dist/` directory.
 ---
 
 *AURORA – Connect. Create. Inspire.*
+<img width="1912" height="852" alt="image" src="https://github.com/user-attachments/assets/3dbda86e-45fa-4bef-9715-fe7f02ca803f" />
+<img width="1887" height="765" alt="image" src="https://github.com/user-attachments/assets/9c4c4af2-09ed-4440-8c18-baf6a1f1af96" /><img width="460" height="736" alt="image" src="https://github.com/user-attachments/assets/b369ff39-1a09-4e0f-825c-72985bca8cc9" /><img width="1167" height="812" alt="image" src="https://github.com/user-attachments/assets/78901cd2-3448-47a1-8e38-59e96f9a6245" />
+<img width="1102" height="762" alt="image" src="https://github.com/user-attachments/assets/4d369984-c1f7-4b4d-9a18-8233d3becb2e" /><img width="1135" height="796" alt="image" src="https://github.com/user-attachments/assets/1dc4e24c-d78e-4472-b36b-a8eca982da95" />
+
+
+
+
